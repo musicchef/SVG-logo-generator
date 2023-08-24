@@ -38,4 +38,4 @@ Here's an example of how the SVG Logo Generator can be used:
 
 ## Walkthrough Video
 
-[Watch the Walkthrough Video](I_STILL_NEED_TO_MAKE_WALKTHROUGH_VIDEO_DEMO) to see the SVG Logo Generator in action and learn how to use it effectively.
+[Watch the Walkthrough Video](https://github.com/musicchef/SVG-logo-generator/blob/main/SVG-Generator-Demo.webm) to see the SVG Logo Generator in action and learn how to use it effectively.
