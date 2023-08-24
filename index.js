@@ -2,7 +2,6 @@ const inquirer = require('inquirer');
 const fs = require('fs');
 const { Shape, Circle, Square, Triangle } = require('./lib/shapes');
 
-// Define a function to prompt the user for input
 async function getUserInput() {
     const userInput = await inquirer.prompt([
         {
